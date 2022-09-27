@@ -40,7 +40,7 @@ body{
     border: 2px solid #1f1f1f;
 }
 
-.main__card-content{
+.main__card-container{
     width: 100%;
     height: 140px;
     margin-bottom: 15px;
@@ -48,8 +48,6 @@ body{
 
 .main__card-img{
     display: block;
-    width: 100%;
-    height: 100%;
     object-fit: cover;
     border-radius: 15px 15px 0 0;
 }
