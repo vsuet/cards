@@ -2,7 +2,6 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-
 }
 
 h1,
@@ -27,7 +26,6 @@ img {
     display: flex;
     justify-content: space-around;
     margin-bottom: 30px;
-    
 }
 
 .main__item {
@@ -39,7 +37,6 @@ img {
     display: flex;
     flex-direction: column; 
     align-items: center;
-
 }
 .vegetable {
     margin-top: 10px;
