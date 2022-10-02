@@ -54,7 +54,6 @@ body{
 }
 
 .main__card-desc{
-    display: block;
     text-align: center;
     font-size: 20px;
 }
