@@ -65,7 +65,6 @@ body{
 }
 
 .footer__text{
-    display: block;
     text-align: center;
     font-size: 25px;
 }
