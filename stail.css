@@ -1,0 +1,37 @@
+h1{text-align:center; color: #000000;font-family: 'Montserrat';}
+p{text-align:center;color: aliceblue;width: 100%;font-family: 'Montserrat'; }
+body{background:url(https://all-aforizmy.ru/wp-content/uploads/2022/07/1920x1200_1411196_www.artfile.ru_.jpg);}
+@font-face {
+    font-family: 'Montserrat';
+    src: local('Montserrat Regular'), local('Montserrat-Regular'), url('http://hb.bizmrg.com/fonts/montserrat/400.woff2') format('woff2'), url('http://hb.bizmrg.com/fonts/montserrat/400.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}  
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+    max-width: 1200px;
+    max-height: 500px;
+}
+
+.img_box {
+    position: relative;  
+    overflow: auto;
+    margin: 10px ;
+    background: rgb(181, 189, 109);
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items:flex-end;
+    max-width: 200px;
+    max-height: 200px;
+   
+}
+.img{
+    overflow: auto;
+    width:100%;
+    height:100%;   
+}
