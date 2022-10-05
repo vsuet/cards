@@ -1,0 +1,31 @@
+.center {
+    text-align: center;
+  }
+  .section {
+      display: flex;
+      justify-content: space-around;
+      margin: 50px;
+  }
+  .main__fridge {
+      width: 200px;
+      height: 288px;
+      display: flex;
+      justify-content: space-around;
+      flex-direction: column;
+      border: 2px solid silver;
+      border-radius: 35px;
+  }
+  .main__fridge > img {
+    width: 150px;
+      height: 150px;
+    margin: 20px auto 0 auto;
+  }
+  h1 {
+    margin-bottom: 20px;
+  }
+  hr {
+    margin: 0 5%;
+  }
+  header {
+    margin-top: 60px;
+  }
