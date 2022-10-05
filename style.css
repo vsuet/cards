@@ -1,0 +1,15 @@
+.container_row {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	width: 100%;
+}
+.marg_textcenter {
+margin-left:41%;
+}
+figcaption {
+	text-align: center;
+	font-weight: 600;
+	font-size: 18px;
+	margin-left:center;
+}
