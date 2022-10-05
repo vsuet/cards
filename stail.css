@@ -17,7 +17,7 @@ body{background:url(https://all-aforizmy.ru/wp-content/uploads/2022/07/1920x1200
     max-height: 500px;
 }
 
-.img_box {
+.img-box {
     position: relative;  
     overflow: auto;
     margin: 10px ;
