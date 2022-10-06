@@ -45,9 +45,13 @@ figcaption{
 }
 
 .footer-text{
-    display: block;
     text-align: center;
     padding: 30px;
     font-size: 20px;
     font-weight: bold;
+}
+
+.border img{
+width: 130px;
+height: 130px;
 }
