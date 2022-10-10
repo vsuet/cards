@@ -1,0 +1,29 @@
+.title {
+	text-align: center;
+	font-family: Georgia, serif;
+	font-size: 50px;
+}
+
+body {background: linear-gradient(red, yellow);
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	text-align: center;
+	font-family: Georgia, serif;
+	font-size: 20px;
+	margin-bottom: 15px;
+}
+
+.brd {
+	border: solid white;
+	margin: 0;
+}
+
+.brd img{
+	width: 150px;
+	height: 150px;
+}
+
