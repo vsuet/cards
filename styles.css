@@ -1,0 +1,32 @@
+/* контейнер */
+.container {
+    width: 100%;
+    max-width: 1200px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    flex-flow: row wrap;
+}
+.header, main, footer{
+    text-align: center;
+}
+
+.list-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    padding: 5px;
+    margin: 5px;
+    list-style: none;
+}
+
+.list-item {
+    border: 2px solid #7a7b7e;
+    border-radius: 30px;
+    padding: 5px;
+    line-height: 20px;
+    font-size: 1.5em;
+    text-align: center;
+    margin-top: 15px;
+}
