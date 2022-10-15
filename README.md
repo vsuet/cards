@@ -1,5 +1,5 @@
-# Карточки
+# Welcome to GitHub Desktop!
 
-Создать страницы с применением CSS Flex как на изображении ниже
+This is your README. READMEs are where you can communicate what your project is and how to use it.
 
-![image_2022-09-23_13-57-08](https://user-images.githubusercontent.com/8177749/192253039-03678495-ca29-46f2-a446-7ef2d5a60e25.png)
+Write your name on line 6, save it, and then head back to GitHub Desktop.
